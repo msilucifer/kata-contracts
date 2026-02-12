@@ -1,5 +1,7 @@
 {
-  "address": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "erc20": "0xa70a972167c677564b2a69a9da2096ff593c3eb5",
+  "sol": "2k4R8M6EeY5kvA6LnHLGtMTEQJkejVPPgjoXBgiKuoz7",
+  "trc20": "TXUAGjJoEwdutQd5pZYt2ttWE8CBSF45yb",
   "abi": [
     {
       "inputs": [],
